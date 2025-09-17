@@ -121,7 +121,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Garrison # change back to Home after
+- title: Home
   url: /
 - title: Elements
   url: /elements/
