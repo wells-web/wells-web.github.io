@@ -1,5 +1,5 @@
 ---
-title: Garrison Wells # About Alembic
+title: About Me # About Alembic
 feature_text: |
   ## Garrison Wells
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
